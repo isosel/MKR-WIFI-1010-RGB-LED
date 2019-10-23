@@ -1,6 +1,7 @@
 /**
  * author: mickael cherouise
  * date:  23/10/2019
+ * Rainbow RGB Led
  */
  
 #define rgbledRed 2
